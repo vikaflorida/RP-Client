@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>elementStd/GridLayoutStd.qml</file>
+        <file>elementStd/LabelStd.qml</file>
+        <file>main.qml</file>
+        <file>Modes.qml</file>
+        <file>elementSpec/HalfSet.qml</file>
+        <file>elementStd/SwitchStd.qml</file>
+        <file>elementStd/ToolTipStd.qml</file>
+        <file>Telemetry.qml</file>
+        <file>elementStd/TextInputStd.qml</file>
+        <file>elementStd/TextInputToGroupStd.qml</file>
+        <file>elementStd/StatusIndicatorStd.qml</file>
+        <file>appcolors.js</file>
+        <file>elementSpec/TextInputToGroupTelemetry.qml</file>
+        <file>elementStd/ButtonStd.qml</file>
+        <file>elementStd/TextInputTimeStd.qml</file>
+        <file>elementSpec/RunningTimeCounter.qml</file>
+        <file>elementSpec/TextInputTimer.qml</file>
+        <file>RPClient.qml</file>
+        <file>elementSpec/KitV.qml</file>
+    </qresource>
+</RCC>

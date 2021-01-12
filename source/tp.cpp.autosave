@@ -1,0 +1,6 @@
+#include "..\include\tp.h"
+
+TP::telemetryProtocol::telemetryProtocol()
+{
+    
+}
